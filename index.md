@@ -4,8 +4,8 @@
 	- 11:20 Arrival in Roma Fiumicino Airport
 	- 1:30 🍕 Colosseum area [📍](https://maps.app.goo.gl/dhZPghVCX9mwepZs8)
 	- 15:00 - Colosseum walking tour [📚](https://en.wikipedia.org/wiki/Colosseum) - [📍](https://maps.app.goo.gl/HABxA63fNW3rec546) 
-	- 6:30 🍕 Dinner - Church of St Paul (San Paolo) Area [📚](https://en.wikipedia.org/wiki/St._Paul%27s_Within_the_Walls) - [📍](https://maps.app.goo.gl/Uu33tp6fqb914L3z7)
-	- 8:30 🎭 Opera Concerto [🎫](https://stpaulsrome.it/it/musica/calendario-dei-concerti/) [📍](https://maps.app.goo.gl/Uu33tp6fqb914L3z7)
+	- 18:30 🍕 Dinner - Church of St Paul (San Paolo) Area [📚](https://en.wikipedia.org/wiki/St._Paul%27s_Within_the_Walls) - [📍](https://maps.app.goo.gl/Uu33tp6fqb914L3z7)
+	- 20:30 🎭 Opera Concerto [🎫](https://stpaulsrome.it/it/musica/calendario-dei-concerti/) [📍](https://maps.app.goo.gl/Uu33tp6fqb914L3z7)
 	- **GRAND HOTEL OLYMPIC**[📍](https://maps.app.goo.gl/SeRrrSCg1F9RVKMe8)
 
 			GRAND HOTEL OLYMPIC (http://www.aurumhotels.it/)
@@ -26,8 +26,8 @@
 - 21.june
 	- 9:00 - Tour of Jewish Ghetto [📚](https://en.wikipedia.org/wiki/Roman_Ghetto) - [(map)](https://maps.app.goo.gl/LmDg8EjN9Lqa1NfR7)
 	- 12:00 🍕 Campo dei Fiori [📚](https://en.wikipedia.org/wiki/Campo_de%27_Fiori) - [📍](https://maps.app.goo.gl/WcnFXcPrXmiDTMZc9)
-	- 4:30 - Depart for Tarquinia [📚](https://en.wikipedia.org/wiki/Tarquinia) [📍](https://maps.app.goo.gl/UFvWMm6mybL7N1PB9) ...or Tarquiia _**Lido**_ ? [📍](https://maps.app.goo.gl/deP9m3cuADbYkLueA)
-	- 6:30 🍕
+	- 16:30 - Depart for Tarquinia [📚](https://en.wikipedia.org/wiki/Tarquinia) [📍](https://maps.app.goo.gl/UFvWMm6mybL7N1PB9) ...or Tarquiia _**Lido**_ ? [📍](https://maps.app.goo.gl/deP9m3cuADbYkLueA)
+	- 18:30 🍕
 	- 20:00 🎶🎶 **Performance**  ⚠️ Piazza Lungomare? ⚠️
 	- Grand Hotel Olympic (Rome) ?
 	
@@ -80,5 +80,5 @@
 
 - 26.june
 	- 06:30 
-	- Go to Airport (FCO) [📍](https://maps.app.goo.gl/SbKepxTyAKTkgHv47)
+	- 07:30 Go to Airport (FCO) [📍](https://maps.app.goo.gl/SbKepxTyAKTkgHv47)
 	
