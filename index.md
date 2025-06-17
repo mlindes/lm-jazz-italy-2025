@@ -115,3 +115,10 @@
 - 06:30 
 - 07:30 Go to Airport (FCO) [📍map](https://maps.app.goo.gl/SbKepxTyAKTkgHv47)
 	
+
+## Hotel Details
+
+| Name | Phone | location |
+------ | ------- | ------
+| Hotel Settentrionale Esplande | +39 06 689 6650 | ([📍map](https://maps.app.goo.gl/t8YXTHiKpTiL825y6)) |
+| Hotel Royal | +39 0761 797048 | [📍map](https://maps.app.goo.gl/SeRrrSCg1F9RVKMe8) |
