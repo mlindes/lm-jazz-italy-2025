@@ -1,6 +1,6 @@
-## Itinerary
+# Itinerary
 
-### 19.June 
+## 19.June 
 - 11:20 Arrival in Roma Fiumicino Airport
 - 1:30 🍕 Colosseum area [📍map](https://maps.app.goo.gl/dhZPghVCX9mwepZs8)
 - 15:00 - Colosseum walking tour [📚wiki](https://en.wikipedia.org/wiki/Colosseum) - [📍map](https://maps.app.goo.gl/HABxA63fNW3rec546) 
@@ -13,9 +13,9 @@
 			Metropolitan City of Rome Capital
 			+39 06 689 6650
 
---
+---
 
-### 20.June
+## 20.June
 
 - 09:00 - St Peter's Basilica [📚wiki](https://en.wikipedia.org/wiki/St._Peter%27s_Basilica) - [📍map](https://maps.app.goo.gl/Uc31VtB7nUhdc21t6) - 
 - 12:00 🍕 Vatican Lunch
@@ -26,9 +26,9 @@
 - 21:00 🍕Vatican 
 - Grand Hotel Olympic
 
---
+---
 
-###  21.june
+##  21.june
 - 9:00 - Tour of Jewish Ghetto [📚wiki](https://en.wikipedia.org/wiki/Roman_Ghetto) - [(map)](https://maps.app.goo.gl/LmDg8EjN9Lqa1NfR7)
 - 12:00 🍕 Campo dei Fiori [📚wiki](https://en.wikipedia.org/wiki/Campo_de%27_Fiori) - [📍map](https://maps.app.goo.gl/WcnFXcPrXmiDTMZc9)
 - 16:30 - Depart for Tarquinia [📚wiki](https://en.wikipedia.org/wiki/Tarquinia) [📍map](https://maps.app.goo.gl/UFvWMm6mybL7N1PB9) ...or Tarquiia _**Lido**_ ? [📍map](https://maps.app.goo.gl/deP9m3cuADbYkLueA)
@@ -37,9 +37,9 @@
 	> ⚠️ Piazza Lungomare? ⚠️
 - Grand Hotel Olympic (Rome) ?
 	
---
+---
 
-###  22.june
+##  22.june
 
 - 9:30 Depart to **Florence** - [📚wiki](https://en.wikipedia.org/wiki/Florence) - ([map](https://maps.app.goo.gl/BSztChEfAtvw1jFK8)) -- (Largest City in **Tuscany** [📚wiki](https://en.wikipedia.org/wiki/Tuscany) - ([📍](https://maps.app.goo.gl/gMbSaPrVKpXbWDXf8)))
 - 14:30 **Palazzo Pitti** [📚wiki](https://en.wikipedia.org/wiki/Palazzo_Pitti) (Renaissance palace) - ([📍map](https://maps.app.goo.gl/8KpDy551TdkXKFeK9))
@@ -57,9 +57,9 @@
 		+39 0572 70021
 
 		
---
+---
 
-###  23.june
+##  23.june
 
 - 9:30 Depart Hotel
 - 10:00 Montecarlo di Lucca (Cooking Class) [wiki](https://en.wikipedia.org/wiki/Montecarlo,_Tuscany) ([📍map](https://maps.app.goo.gl/GvPuX27vsPutdBYC6)) 
@@ -78,9 +78,9 @@
 			+39 0572 70021
 		 
 
---
+---
 
-###  24.june
+##  24.june
 
 - Depart to **Siena** [📍map](https://maps.app.goo.gl/BSrJShKYcqW3LDrF9) [📚](https://en.wikipedia.org/wiki/Siena)City Center
 - 13:00 🍕
@@ -97,9 +97,9 @@
 			JXRJ+HW Bolsena, Province of Viterbo, Italy
 			+39 0761 797048
 	
---
+---
 
-###  25.june
+##  25.june
 
 - Depart to Orvieto City Center [📍map](https://maps.app.goo.gl/R5zR7Efen17rYT258) - [📚wiki](https://en.wikipedia.org/wiki/Orvieto)
 - 12:30 🍕
@@ -108,9 +108,9 @@
 - 19:00 🍕
 - 20:30 **Performance** ⚠️ [...]() 
 
---
+---
 
-###  26.june
+##  26.june
 
 - 06:30 
 - 07:30 Go to Airport (FCO) [📍map](https://maps.app.goo.gl/SbKepxTyAKTkgHv47)
