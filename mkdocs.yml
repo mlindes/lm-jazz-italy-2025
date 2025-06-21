@@ -27,16 +27,15 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
 
-# Features
-features:
-  - navigation.tabs
-  - navigation.sections
-  - navigation.expand
-  - navigation.top
-  - search.suggest
-  - search.highlight
-  - content.code.copy
-  - content.code.annotate
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
 
 # Extensions
 markdown_extensions:
