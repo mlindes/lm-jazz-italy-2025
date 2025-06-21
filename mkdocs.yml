@@ -61,6 +61,8 @@ markdown_extensions:
 # Navigation
 nav:
   - Home: index.md
+  - Itinerary:
+      - Day 2: day2.md
 
 # Extra
 extra:
