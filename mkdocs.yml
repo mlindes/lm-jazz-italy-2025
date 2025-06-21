@@ -1,0 +1,69 @@
+site_name: Italy Jazz Tour 2025
+site_description: Itinerary and details for the Italy Jazz Tour 2025
+site_author: Jazz Tour Team
+site_url: https://mlindes.github.io/lm-jazz-italy-2025/
+
+# Repository
+repo_name: mlindes/lm-jazz-italy-2025
+repo_url: https://github.com/mlindes/lm-jazz-italy-2025
+edit_uri: edit/main/docs/
+
+# Theme
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+# Features
+features:
+  - navigation.tabs
+  - navigation.sections
+  - navigation.expand
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - content.code.copy
+  - content.code.annotate
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.smartsymbols
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+
+# Navigation
+nav:
+  - Home: index.md
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mlindes/lm-jazz-italy-2025
