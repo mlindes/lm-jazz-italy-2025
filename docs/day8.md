@@ -1,5 +1,7 @@
 # Day 8 - June 26
 
+[Official pdf](./Itinerary2.pdf)
+
 - 06:30 
 - 07:30 Go to Airport (FCO) [📍map](https://maps.app.goo.gl/SbKepxTyAKTkgHv47)
 

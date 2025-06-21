@@ -1,6 +1,6 @@
 # Italy Jazz Tour 2025
 
-Welcome to the Italy Jazz Tour 2025! This tour will take you through some of the most beautiful cities and regions of Italy, from Rome to Tuscany and beyond.
+[Official pdf](./Itinerary2.pdf)
 
 ## Tour Overview
 
