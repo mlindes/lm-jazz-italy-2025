@@ -1,4 +1,6 @@
-# 20.June
+# Day 2 - June 20
+
+[Day 2 Overview](https://maps.app.goo.gl/pdq7HkmKP93AYuRt7)
 
 ![Day2](./day2.png)
 [Day 2 Overview](https://maps.app.goo.gl/pdq7HkmKP93AYuRt7)
