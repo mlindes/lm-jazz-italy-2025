@@ -2,6 +2,9 @@
 
 [Official pdf](./Itinerary2.pdf)
 
+![Day6](./day6.png)
+
+
 - Depart to **Siena** [📍map](https://maps.app.goo.gl/BSrJShKYcqW3LDrF9) [📚](https://en.wikipedia.org/wiki/Siena)City Center
 - 13:00 🍕
 - 17:00 Depart to Marta Lungolago [📍map](https://maps.app.goo.gl/u69SAzaX5RLzZKCW6) [📚]()
