@@ -1,5 +1,7 @@
 # Day 4 - June 22
 
+[Official pdf](./Itinerary2.pdf)
+
 - 9:30 Depart to **Florence** - [📚wiki](https://en.wikipedia.org/wiki/Florence) - ([map](https://maps.app.goo.gl/BSztChEfAtvw1jFK8)) -- (Largest City in **Tuscany** [📚wiki](https://en.wikipedia.org/wiki/Tuscany) - ([📍](https://maps.app.goo.gl/gMbSaPrVKpXbWDXf8)))
 - 14:30 **Palazzo Pitti** [📚wiki](https://en.wikipedia.org/wiki/Palazzo_Pitti) (Renaissance palace) - ([📍map](https://maps.app.goo.gl/8KpDy551TdkXKFeK9))
 - 18:00 Depart to **Montecatini Terme** [📚wiki](https://en.wikipedia.org/wiki/Montecatini_Terme) - [📍map](https://maps.app.goo.gl/iy3mg4XMUDYnjsTcA) 

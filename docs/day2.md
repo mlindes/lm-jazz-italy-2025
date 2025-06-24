@@ -1,5 +1,8 @@
 # Day 2 - June 20
 
+[Official pdf](./Itinerary2.pdf)
+
+
 [Day 2 Overview](https://maps.app.goo.gl/pdq7HkmKP93AYuRt7)
 
 ![Day2](./day2.png)

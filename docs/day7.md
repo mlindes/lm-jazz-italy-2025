@@ -1,5 +1,7 @@
 # Day 7 - June 25
 
+[Official pdf](./Itinerary2.pdf)
+
 - Depart to Orvieto City Center [📍map](https://maps.app.goo.gl/R5zR7Efen17rYT258) - [📚wiki](https://en.wikipedia.org/wiki/Orvieto)
 - 12:30 🍕
 - 15:00 Walking Tour

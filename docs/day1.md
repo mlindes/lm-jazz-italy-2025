@@ -1,5 +1,8 @@
 # Day 1 - June 19
 
+[Official pdf](./Itinerary2.pdf)
+
+
 [Day 1 Overview](https://maps.app.goo.gl/KrCVHR9Xb3enyi7d6)
 
 - 11:20 Arrival in Roma Fiumicino Airport

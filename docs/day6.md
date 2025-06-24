@@ -1,5 +1,7 @@
 # Day 6 - June 24
 
+[Official pdf](./Itinerary2.pdf)
+
 - Depart to **Siena** [📍map](https://maps.app.goo.gl/BSrJShKYcqW3LDrF9) [📚](https://en.wikipedia.org/wiki/Siena)City Center
 - 13:00 🍕
 - 17:00 Depart to Marta Lungolago [📍map](https://maps.app.goo.gl/u69SAzaX5RLzZKCW6) [📚]()
