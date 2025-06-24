@@ -9,6 +9,7 @@ This 8-day tour includes:
 - **Days 1-3**: Rome and surrounding areas
 - **Days 4-5**: Florence and Tuscany (Montecatini Terme, Lucca)
 - **Days 6-8**: Siena, Orvieto, and Bolsena
+	- [day4](./day4.md) [day5](./day5.md) [day6](./day6.md)
 
 ## Flight Details
 
